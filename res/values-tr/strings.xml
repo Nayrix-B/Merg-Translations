@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name" translatable="false">Merg</string>
+    <string name="Merg" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Singleplayer</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string>
-    <string name="discord" translatable="false">Discord</string>
+    <string name="Tek Oyunculu">Singleplayer</string>
+    <string name="LAN Çok Oyunculu">LAN Multiplayer</string>
+    <string name="Çevrimiçi Çok Oyunculu">Online Multiplayer</string>
+    <string name="Seçenekler">Options</string>
+    <string name="Discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
-    <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
+    <string name="Posta" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copy Email</string>
     <string name="email_support">Support Mail:</string>
     <string name="developer">Developer:</string>
